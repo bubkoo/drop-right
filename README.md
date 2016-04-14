@@ -39,13 +39,6 @@ dropRight(null); // => Exception
 ```
 
 
-
-## API
-
-### dropRight(array, count)
-
-
-
 ## Related
 
 - [drop-left](https://github.com/bubkoo/drop-left) - Creates a slice of array with n elements dropped from the beginning.
