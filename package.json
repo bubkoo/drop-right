@@ -49,7 +49,6 @@
   },
   "dependencies": {
     "is-array-like": "^1.0.3",
-    "to-integer": "^1.0.0",
     "to-length": "^1.0.0"
   }
 }
