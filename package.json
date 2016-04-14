@@ -1,6 +1,6 @@
 {
   "name": "drop-right",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates a slice of array with n elements dropped from the end.",
   "main": "index.js",
   "scripts": {
