@@ -2,10 +2,10 @@
 
 > Creates a slice of array with n elements dropped from the end.
 
-[![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/drop-right/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/gearcase/drop-right/blob/master/LICENSE)
 
-[![build:?](https://img.shields.io/travis/bubkoo/drop-right/master.svg?style=flat-square)](https://travis-ci.org/bubkoo/drop-right)
-[![coverage:?](https://img.shields.io/coveralls/bubkoo/drop-right/master.svg?style=flat-square)](https://coveralls.io/github/bubkoo/drop-right)
+[![build:?](https://img.shields.io/travis/gearcase/drop-right/master.svg?style=flat-square)](https://travis-ci.org/gearcase/drop-right)
+[![coverage:?](https://img.shields.io/coveralls/gearcase/drop-right/master.svg?style=flat-square)](https://coveralls.io/github/gearcase/drop-right)
 
 
 
@@ -19,7 +19,7 @@ $ npm install --save drop-right
 
 ## Usage
 
-> For more use-cases see the [tests](https://github.com/bubkoo/drop-right/blob/master/test/spec/index.js)
+> For more use-cases see the [tests](https://github.com/gearcase/drop-right/blob/master/test/spec/index.js)
 
 ```js
 var dropRight = require('drop-right');
@@ -41,14 +41,14 @@ dropRight(null); // => Exception
 
 ## Related
 
-- [drop-left](https://github.com/bubkoo/drop-left) - Creates a slice of array with n elements dropped from the beginning.
-- [is-index](https://github.com/bubkoo/is-index) - Checks if the given value is a valid array-like index.
-- [is-length](https://github.com/bubkoo/is-length) - Checks if the given value is a valid array-like length.
-- [to-length](https://github.com/bubkoo/to-length) - Converts value to an integer suitable for use as the length of an array-like object.
-- [pick-item](https://github.com/bubkoo/pick-item) - Randomly sampling a item from an array.
-- [pick-items](https://github.com/bubkoo/pick-items) - Randomly sampling some items from an array. 
-- [shuffle-arr](https://github.com/bubkoo/shuffle-arr) - Randomize the order of the elements in an array or array-like object. 
-- [is-array-like](https://github.com/bubkoo/is-array-like) - Checks if the given value is an array or array-like object.
+- [drop-left](https://github.com/gearcase/drop-left) - Creates a slice of array with n elements dropped from the beginning.
+- [is-index](https://github.com/gearcase/is-index) - Checks if the given value is a valid array-like index.
+- [is-length](https://github.com/gearcase/is-length) - Checks if the given value is a valid array-like length.
+- [to-length](https://github.com/gearcase/to-length) - Converts value to an integer suitable for use as the length of an array-like object.
+- [pick-item](https://github.com/mock-end/pick-item) - Randomly sampling a item from an array.
+- [pick-items](https://github.com/mock-end/pick-items) - Randomly sampling some items from an array. 
+- [shuffle-arr](https://github.com/mock-end/shuffle-arr) - Randomize the order of the elements in an array or array-like object. 
+- [is-array-like](https://github.com/gearcase/is-array-like) - Checks if the given value is an array or array-like object.
 
 
 
@@ -57,4 +57,4 @@ dropRight(null); // => Exception
 
 Pull requests and stars are highly welcome.
 
-For bugs and feature requests, please [create an issue](https://github.com/bubkoo/drop-right/issues/new).
+For bugs and feature requests, please [create an issue](https://github.com/gearcase/drop-right/issues/new).

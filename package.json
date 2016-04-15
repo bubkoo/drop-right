@@ -1,6 +1,6 @@
 {
   "name": "drop-right",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Creates a slice of array with n elements dropped from the end.",
   "main": "index.js",
   "scripts": {
@@ -34,12 +34,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/drop-right.git"
+    "url": "git+https://github.com/gearcase/drop-right.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/drop-right/issues"
+    "url": "https://github.com/gearcase/drop-right/issues"
   },
-  "homepage": "https://github.com/bubkoo/drop-right#readme",
+  "homepage": "https://github.com/gearcase/drop-right#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
